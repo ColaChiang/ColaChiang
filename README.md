@@ -1,17 +1,12 @@
-### Hi there! 👋 I'm Cola Chiang, welcome to my GitHub profile! 
+### Hi there! 👋 I'm Cola Chiang, welcome to my GitHub profile!
 
-<!--
-**ColaChiang/ColaChiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic developer with a strong passion for education, technology, and creative problem-solving. Here's a little more about me:
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** A YouBike open data application project to predict bike availability and enhance user experience.  
+- 🌱 **Currently learning:** Advanced Python techniques, data analysis, and educational applications of big data.  
+- 👯 **Looking to collaborate on:** Projects related to educational technology, AI-driven language learning platforms, or open data applications.  
+- 💬 **Ask me about:** Python, LINE Bot development, or integrating technology into education.  
+- 📫 **How to reach me:** Feel free to drop me a message here on GitHub or via email at `colachiang@example.com`.  
+- ⚡ **Fun fact:** I enjoy being a cultural ambassador for Taiwan and exploring creative ways to teach and learn!
 
-- 🔭 I’m currently working on ...
-Tapei
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by my profile—let's build something amazing together! 🚀
