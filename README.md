@@ -21,14 +21,17 @@ I'm an enthusiastic developer with a passion for **education**, **technology**, 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ColaChiang&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ColaChiang&show_icons=true&include_all_commits=true&cache_seconds=21600&v=20260912" alt="GitHub Stats" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ColaChiang" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ColaChiang&timezone=Asia%2FTaipei&v=20260912" alt="GitHub Streak" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColaChiang&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColaChiang&layout=compact&cache_seconds=21600&v=20260912" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ColaChiang&color=blue&style=flat-square" alt="Profile Views" />
 </p>
